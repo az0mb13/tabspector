@@ -1,4 +1,4 @@
-# tabspector
+# Tabspector
 
 Extracts Guitar tabs from Youtube videos
 * Crops the videos assuming the tabs are at the bottom part of the video.
